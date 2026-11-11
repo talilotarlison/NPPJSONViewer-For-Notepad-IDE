@@ -1,6 +1,6 @@
 # NPPJSONViewer for Notepad++
 
-![NPPJSONViewer](20180719174936675.png)
+![NPPJSONViewer](screenshot.png)
 
 Plugin para abrir e visualizar arquivos JSON dentro do Notepad++. Este repositório contém o arquivo compilado do plugin (`NPPJSONViewer.dll`).
 
